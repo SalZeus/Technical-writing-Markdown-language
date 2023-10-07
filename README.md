@@ -1,4 +1,4 @@
 
 # Technical-writing-Markdown-language - portfolio
 
-## in this document er eill br laying out the contect for our project
+## in this document we will be laying out the context for our project
